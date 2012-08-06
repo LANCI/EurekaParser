@@ -1,0 +1,5 @@
+bin/
+data/
+etudiants.txt
+*~
+.cache
